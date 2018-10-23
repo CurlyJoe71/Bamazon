@@ -1,5 +1,5 @@
 # Bamazon
-Welcome ot my CLI using Node.js and SQL to create a small version of an online store.
+Welcome to my CLI using Node.js and SQL to create a small version of an online store.
 
 This app also uses the npm cli-table and colors packages to add some extra user-friendly styling.
 
